@@ -17,7 +17,7 @@ export default function Home() {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <main className="flex items-center justify-center font-outfit bg-light-gray h-screen">
-                <div className="bg-white rounded-3xl flex flex-col items-center justify-center p-4">
+                <div className="bg-white rounded-3xl flex flex-col items-center justify-center p-4 shadow-lg">
                     <div>
                         <Image
                             src="/image-qr-code.png"
@@ -28,10 +28,10 @@ export default function Home() {
                         />
                     </div>
                     <div className="w-min py-6">
-                        <h1 className="w-64 font-bold text-xl text-center text-dark-blue">
+                        <h1 className="w-64 font-bold text-[22px] text-center text-dark-blue">
                             Improve your front-end skills by building projects
                         </h1>
-                        <p className="text-center text-grayish-blue font-normal text-sm pt-4">
+                        <p className="text-center text-grayish-blue font-normal text-[15px] pt-4">
                             Scan the QR code to visit Frontend Mentor and take
                             your coding skills to the next level
                         </p>
