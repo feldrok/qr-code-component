@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 -   Solution URL: [Github](https://github.com/feldrok/qr-code-component)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [Deployed to Vercel](https://qr-code-component-ljcthag10-feldrok.vercel.app/)
 
 ## My process
 
